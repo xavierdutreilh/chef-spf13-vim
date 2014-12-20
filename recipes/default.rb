@@ -6,6 +6,7 @@
 #
 
 include_recipe 'git'
+include_recipe 'vim'
 
 node[:spf13_vim][:users].each do |user|
   home = Dir.home(user[:username])
