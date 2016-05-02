@@ -1,6 +1,6 @@
 # chef-spf13-vim Cookbook
 
-Installs [spf13-vim](https://github.com/spf13/spf13-vim)
+> Installs [spf13-vim](https://github.com/spf13/spf13-vim)
 
 ## Attributes
 
