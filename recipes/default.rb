@@ -2,7 +2,7 @@
 # Cookbook Name:: spf13_vim
 # Recipe:: default
 #
-# Copyright 2014-2016, Xavier Dutreilh
+# Copyright 2014-2017, Xavier Dutreilh
 #
 
 include_recipe 'git'
